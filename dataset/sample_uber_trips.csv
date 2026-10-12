@@ -1,0 +1,16 @@
+trip_id,date,city,vehicle_type,payment_method,pickup_location,dropoff_location,trip_distance_miles,trip_duration_minutes,base_fare,tip,airport_fee,total_amount
+1,2024-01-10,New York,UberX,Card,Penn Station,Madison Ave,3.2,18,12.5,2.0,0,17.5
+2,2024-01-10,New York,UberXL,Card,Times Square,Midtown East,5.7,24,18.0,3.5,0,23.5
+3,2024-01-11,New York,Uber Green,Cash,Upper West Side,Central Park,2.8,16,11.0,1.0,0,13.0
+4,2024-01-12,New York,Uber Comfort,Card,SoHo,Lower Manhattan,4.1,20,15.5,2.5,0,18.5
+5,2024-01-12,New York,Uber Black,Card,Financial District,Harlem,8.6,34,28.0,4.0,0,36.0
+6,2024-01-13,New York,UberX,Card,Queensboro Plaza,LaGuardia,8.9,31,26.0,3.0,5.0,34.0
+7,2024-01-14,New York,UberX,Digital Wallet,Union Square,Brooklyn Heights,6.5,27,19.0,2.0,0,21.0
+8,2024-01-15,New York,UberXL,Card,Grand Central,Astoria,7.8,29,24.0,4.5,0,30.5
+9,2024-01-16,New York,Uber Green,Cash,Upper East Side,Washington Heights,3.9,17,13.5,1.5,0,16.0
+10,2024-01-17,New York,Uber Comfort,Card,Midtown West,Tribeca,5.3,23,17.0,2.0,0,20.0
+11,2024-01-18,New York,UberX,Card,Penn Station,Madison Sq West,4.5,21,15.0,2.0,0,18.0
+12,2024-01-19,New York,Uber Black,Card,Chinatown,Battery Park,3.7,19,18.0,2.5,0,20.5
+13,2024-01-20,New York,UberX,Card,West Village,Long Island City,7.2,26,22.0,3.0,0,25.0
+14,2024-01-21,New York,UberXL,Cash,Upper Manhattan,Bronx,9.1,33,27.5,4.0,0,31.5
+15,2024-01-22,New York,Uber Green,Card,Central Park South,East Village,4.8,22,16.0,2.2,0,19.2
